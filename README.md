@@ -1,4 +1,4 @@
-# Friday Night Funkin' - Psych Engine
+# Friday Night Funkin' - Aqua Engine BETA
 
 # Compiling infos:
 you must have [newer version of haxe](https://haxe.org/download/) because 4.1.5 misses lots of stuff
